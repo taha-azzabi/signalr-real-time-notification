@@ -1,0 +1,6 @@
+[submodule "azure-functions"]
+	path = azure-functions
+	url = https://github.com/taha-azzabi/azure-functions
+[submodule "app-demo-real-time-notification-vuejs"]
+	path = app-demo-real-time-notification-vuejs
+	url = https://github.com/taha-azzabi/app-demo-real-time-notification-vuejs
